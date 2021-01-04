@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body , ::placeholder {
+    font-family: 'Indie Flower', cursive;
+}
+.header{
+    background-color: rgb(255, 244, 97); 
+    padding: 1rem;
+    margin: 1rem;
+
+}
+textarea{
+    width: 80vw;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid rgb(255, 244, 97);
+
+}
+h2{
+    margin: 1rem;
+}
+#btn{
+    background-color: rgb(255, 244, 97);
+    border: 1px solid rgb(255, 244, 97);
+    padding: 1rem;
+    margin: 1rem;
+}
+footer{
+    background-color: rgb(255, 244, 97);
+    padding: 1rem;
+    margin: 1rem;
+    
+}
